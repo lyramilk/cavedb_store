@@ -1,0 +1,8 @@
+﻿#ifndef _cavedb_store_config_h_
+#define _cavedb_store_config_h_
+
+#define CAVEDB_STORE_VERSION "${version}"
+
+${CMAKE_CONFIG_MACROS}
+
+#endif
